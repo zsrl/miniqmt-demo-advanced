@@ -1,2 +1,2 @@
 # miniqmt-demo-advanced
-《MiniQMT量化交易实战（高级版）》
+《MiniQMT量化交易实战（精讲版）》
